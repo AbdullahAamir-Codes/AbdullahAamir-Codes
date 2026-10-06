@@ -40,4 +40,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=AbdullahAamir-Codes&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=AbdullahAamir-Codes&icon=0&color=6)](https://visitcount.itsvg.in)
+
+[![](https://komarev.com/ghpvc/?username=AbdullahAamir-Codes&icon=0&color=8B5CF6)](https://visitcount.itsvg.in)
