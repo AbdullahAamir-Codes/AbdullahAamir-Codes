@@ -24,7 +24,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AbdullahAamir-Codes&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🟡 Pac-Man Contribution Graph
-<picture data-importer="pacman">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdullahAamir-Codes/AbdullahAamir-Codes/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdullahAamir-Codes/AbdullahAamir-Codes/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AbdullahAamir-Codes/AbdullahAamir-Codes/pacman-output/pacman-contribution-graph.svg?game=pacman">
